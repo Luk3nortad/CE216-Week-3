@@ -1,0 +1,15 @@
+C:\Users\STUDENT\Documents\New folder\ConsoleApp9\ConsoleApp9\bin\Debug\net10.0\ConsoleApp9.exe
+C:\Users\STUDENT\Documents\New folder\ConsoleApp9\ConsoleApp9\bin\Debug\net10.0\ConsoleApp9.deps.json
+C:\Users\STUDENT\Documents\New folder\ConsoleApp9\ConsoleApp9\bin\Debug\net10.0\ConsoleApp9.runtimeconfig.json
+C:\Users\STUDENT\Documents\New folder\ConsoleApp9\ConsoleApp9\bin\Debug\net10.0\ConsoleApp9.dll
+C:\Users\STUDENT\Documents\New folder\ConsoleApp9\ConsoleApp9\bin\Debug\net10.0\ConsoleApp9.pdb
+C:\Users\STUDENT\Documents\New folder\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Documents\New folder\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Documents\New folder\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.AssemblyInfo.cs
+C:\Users\STUDENT\Documents\New folder\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Documents\New folder\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.sourcelink.json
+C:\Users\STUDENT\Documents\New folder\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.dll
+C:\Users\STUDENT\Documents\New folder\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\refint\ConsoleApp9.dll
+C:\Users\STUDENT\Documents\New folder\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.pdb
+C:\Users\STUDENT\Documents\New folder\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.genruntimeconfig.cache
+C:\Users\STUDENT\Documents\New folder\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\ref\ConsoleApp9.dll
